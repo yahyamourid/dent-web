@@ -33,7 +33,11 @@ npm run dev
 ## Demo
 
 
-https://github.com/yahyamourid/dent-web/assets/128039351/bb6a65c8-8aa0-432d-b524-35ebb365fc80
+
+
+https://github.com/yahyamourid/dent-web/assets/128039351/59161766-4aaf-499c-bdb4-54f2b4e501bf
+
+
 
 
 
