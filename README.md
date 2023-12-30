@@ -39,7 +39,9 @@ https://github.com/yahyamourid/dent-web/assets/128039351/59161766-4aaf-499c-bdb4
 
 
 
-
+### Accounts:
+- Admin : admin@gmail.com / admin
+- Prof : mouridyahya180@gmail.com / 1234
 
 <div align="center">
  <b style = {font-weight: 600}>Visitors Count</b>
