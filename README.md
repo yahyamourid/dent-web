@@ -11,6 +11,10 @@ docker-compose up
 - Connect to the PhpMyAdmin server in Docker on port 8081 with the credentials 'root' for both username and password
 - Restart the back-end project from docker desktop
 
+
+
+
+
 ### Using mvn and npm
 - cd dents-back-end
 ```
@@ -35,8 +39,8 @@ npm run dev
 
 
 
-https://github.com/yahyamourid/dent-web/assets/128039351/59161766-4aaf-499c-bdb4-54f2b4e501bf
 
+https://github.com/yahyamourid/dent-web/assets/128039351/97954a15-7522-4b88-901f-5b5e8ee269fd
 
 
 ### Accounts:
